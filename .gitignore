@@ -3,14 +3,6 @@ target
 .project
 .settings
 bin
-build.log
-integration-repo
-ivy-cache
-spring-build
-derby-home
-derbydb
-derby.log
-derbydb
 com.springsource.sts.config.flow.prefs
 s3.properties
 .idea
@@ -22,7 +14,6 @@ s3.properties
 .springBeans
 build
 .gradle
-pom.xml
 out
 
 /.gradletasknamecache
